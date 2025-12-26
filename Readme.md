@@ -3,16 +3,16 @@
 ![I am programmer/software developer](https://pbs.twimg.com/media/FXyHIAjUYAI5vxg?format=jpg&name=small)
 
 Try to learn computer science 
-Problem solver
+
+My personal [Website](https://0ptic0p.wixsite.com/shrey)  
 
 
-
-Skills: PYTHON
+Skills: Python, Multi-lingual, Learner.
 
 - 🔭 I’m currently working on sharping my problem solving skills 
 - 🌱 I’m currently learning python, data science, unix/linux  
 - 👯 I’m looking to collaborate on Software development 
-- ⚡ Fun fact: -_- 
+- ⚡ Fun fact: 33+77 is not equal to 100(sad, i know)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0Ptic0P)  
